@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 .DS_Store
 chromedriver.exe
+mars.py
 
 # C extensions
 *.so
